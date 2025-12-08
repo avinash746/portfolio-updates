@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## Deploy links
-https://friendly-kitsune-7cf713.netlify.app/
+https://portfolio-updates-six.vercel.app/
 
 ## Images
 ![alt text](image.png)
