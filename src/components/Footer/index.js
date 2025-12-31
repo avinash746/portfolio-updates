@@ -102,7 +102,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2025 Avinash Kumar. All rights reserved.
+          &copy; 2026 Avinash Kumar. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
