@@ -11,7 +11,8 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/avinash746",
-  resume: "https://drive.google.com/file/d/1MMBCFFvW7Zb7G0iAu8ARSupl9pkiUnGV/view?usp=sharing",
+  resume:
+    "https://drive.google.com/uc?export=download&id=1MMBCFFvW7Zb7G0iAu8ARSupl9pkiUnGV",
   linkedin: "https://www.linkedin.com/in/avinash-kumar-085321222/",
   insta: "https://www.instagram.com/avinashkr7462/",
 };
